@@ -130,21 +130,21 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Vibe',
         description: 'an innovative MERN-based social media platform that redefines user interaction. Seamlessly blending MongoDB, Express.js, React.js, and Node.js, our application offers a dynamic space where users can effortlessly connect, share posts, engage in real-time conversations, and explore a vibrant social ecosystem',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        link: 'https://github.com/musthafamu',
     },
     {
         iconUrl:snapgram,
         theme: 'btn-back-green',
         name: 'MovieLab',
         description: 'MovieLab is a React-powered web application tailored for film enthusiasts. Dive into an extensive list of movies, explore their genres, and get to know the stellar cast behind each film. The app offers a streamlined experience, allowing users to easily watch',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://github.com/musthafamu/MovieLab',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-blue',
         name: 'Myshop',
         description: 'Embark on a seamless online shopping experience with our Advanced E-commerce API. This feature-packed application is divided into two distinct sections, catering to both users and administrators, ensuring a tailored experience for everyone.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/musthafamu/e-commerceApi',
     },
     
  
