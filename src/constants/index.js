@@ -130,7 +130,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Vibe',
         description: 'an innovative MERN-based social media platform that redefines user interaction. Seamlessly blending MongoDB, Express.js, React.js, and Node.js, our application offers a dynamic space where users can effortlessly connect, share posts, engage in real-time conversations, and explore a vibrant social ecosystem',
-        link: 'https://github.com/musthafamu',
+        link: 'https://github.com/musthafamu/Vibe',
     },
     {
         iconUrl:snapgram,
